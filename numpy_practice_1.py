@@ -1,5 +1,5 @@
 import numpy as np
-#
+
 arr=np.array([1000, 2500, 800, 4200, 1500])
 print(arr.mean())
 print(arr.max())
