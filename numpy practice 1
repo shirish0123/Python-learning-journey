@@ -1,0 +1,18 @@
+import numpy as np
+#
+arr=np.array([1000, 2500, 800, 4200, 1500])
+print(arr.mean())
+print(arr.max())
+print(arr.min())
+print(arr[arr>2000])
+print(arr +100)
+print(arr * 1.05)
+print(type(arr))
+
+prices = np.array([100, 102, 101, 105, 110, 108])
+change = np.array([2, -1, 4, 5, -2, 7])
+print(prices.shape )
+print(prices.reshape(1,6))
+changed_price= prices+change
+print(changed_price )
+print(changed_price[changed_price>=105])
