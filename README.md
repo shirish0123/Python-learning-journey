@@ -1,65 +1,60 @@
-# Python-learning-journey
+# Python Learning Journey 🐍
 
-This repository documents my progress while learning Python for data analysis. I am currently focusing on NumPy and Pandas and building small projects to strengthen my understanding of data manipulation and analysis.
+Welcome to my Python Learning Journey repository.
 
-## Completed Projects
+This repository contains my notes, exercises, practice files, and experiments as I learn Python and its data analysis libraries.
 
-### 1. NumPy Financial Analysis
+My goal is to build a strong foundation in programming through consistent practice and hands-on learning.
 
-#### Objective
-Practice NumPy fundamentals by working with financial and stock price data.
+## Current Skills
 
-#### Skills Used
-- NumPy Arrays
-- Statistical Functions
-- Boolean Indexing
-- Broadcasting
-- Array Reshaping
+### Python
 
-#### What I Learned
-- Creating and manipulating NumPy arrays
-- Calculating statistics such as mean, minimum, and maximum values
-- Filtering data using conditions
-- Applying arithmetic operations to entire arrays
-- Working with array shapes and reshaping data
+* Variables and Data Types
+* Loops and Conditional Statements
+* Functions
+* Lists, Tuples, Dictionaries, and Sets
+* File Handling
+* Basic Problem Solving
 
----
+### NumPy
 
-### 2. Titanic Exploratory Data Analysis (EDA)
+* Array Creation and Manipulation
+* Statistical Operations
+* Boolean Indexing
+* Broadcasting
+* Array Reshaping
 
-#### Objective
-Analyze the Titanic dataset using Pandas to discover patterns in passenger survival.
+### Pandas
 
-#### Skills Used
-- Pandas DataFrames
-- Data Exploration
-- GroupBy Operations
-- Missing Value Analysis
-- Statistical Summaries
+* DataFrames and Series
+* Data Exploration
+* Data Cleaning
+* GroupBy Operations
+* Basic Exploratory Data Analysis (EDA)
 
-#### What I Learned
-- Loading datasets with Pandas
-- Exploring and summarizing data
-- Identifying missing values
-- Analyzing survival rates by gender and passenger class
-- Computing aggregate statistics using GroupBy
+## Repository Structure
 
----
+* `python_basics/` — Python exercises and practice files
+* `numpy/` — NumPy practice and experiments
+* `pandas/` — Pandas exercises and dataset analysis
+* `mini_projects/` — Small applications and challenges
 
-## Current Learning Goals
+## Currently Learning
 
-- Advanced NumPy Operations
-- Data Cleaning with Pandas
-- Data Visualization with Matplotlib
-- More Exploratory Data Analysis Projects
+* Advanced NumPy Operations
+* Data Cleaning Techniques
+* Pandas Data Analysis
+* Git and GitHub
 
-## Future Projects
+## Future Goals
 
-- Stock Price Simulation
-- Expense Tracker
-- Sales Data Analysis
-- Data Visualization Dashboard
+* Data Visualization with Matplotlib
+* SQL for Data Analysis
+* Machine Learning Fundamentals
+* Real-World Data Analysis Projects
+* Building a Strong Data Science Portfolio
 
----
+## Purpose
 
-This repository will continue to grow as I learn new concepts and complete additional projects.
+This repository serves as a record of my learning progress. As I continue studying Python, I will regularly add new exercises, experiments, and projects to track my growth over time.
